@@ -33,7 +33,7 @@
 					<a href="/cz/#about" class="nav-link">About</a>
 				</li>
     			<li class="nav-item active px-3">
-					<a href="/cz/#registration" class="nav-link">Registration</a>
+					<a href="https://hopin.com/events/red-hat-czech-open-house-2022" target="_blank" class="nav-link">Registration</a>
 				</li>
 				<li class="nav-item active px-3">
 					<a href="/cz/schedule" class="nav-link underline local">Schedule</a>
