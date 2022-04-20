@@ -49,15 +49,15 @@
         <div class="col-lg-6 px-5 text-left">
             <h4 class="rhd-700 underline pb-4">Seznam lekcí</h4>
             <div class="rhd-400">
-                <p>Lekce 0 | online | středa 13. 4. 2022 | 14:30 CEST<br>OpenShift ninja in 20 minutes workshop at Open House</p>
+                <p>Lekce 0 (volitelná) | <a>online záznam</a> | středa 13. 4. 2022 | 14:30 CEST<br>OpenShift ninja in 20 minutes workshop at Open House</p>
 
-                <p>Lekce 1 | online | středa 27. 4. 2022 | 15:00 CEST<br>Intro to Kubernetes</p>
+                <p>Lekce 1 | online | středa 27. 4. 2022 | 15:00 - 17:00 CEST<br>Intro to Kubernetes</p>
                 
-                <p>Lekce 2 | online | středa 11. 5. 2022 | 15:00 CEST<br>Fundamentals: deployments, pods, services, routes, requests and limits</p>
+                <p>Lekce 2 | online | středa 11. 5. 2022 | 15:00 - 17:00 CEST<br>Fundamentals: deployments, pods, services, routes, requests and limits</p>
                 
-                <p>Lekce 3 | online | středa 25. 5. 2022 | 15:00 CEST<br>Scheduling, placement rules, network policies</p>
+                <p>Lekce 3 | online | středa 25. 5. 2022 | 15:00 - 17:00 CEST<br>Scheduling, placement rules, network policies</p>
                 
-                <p>Lekce 4 | v Brně | čtvrtek 2. 6. 2022 | 10:00 CEST<br>Metrics, logs, observability</p>
+                <p>Lekce 4 | v Brně | čtvrtek 2. 6. 2022 | 10:00 - 12:00 CEST<br>Metrics, logs, observability</p>
             </div>
 	</div>
     </div>
