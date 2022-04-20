@@ -55,7 +55,7 @@
                 
                 <p>Lekce 2 | online | středa 11. 5. 2022 | 15:00 CEST<br>Fundamentals: deployments, pods, services, routes, requests and limits</p>
                 
-                <p>Lekce 3 | online | středa 27. 5. 2022 | 15:00 CEST<br>Scheduling, placement rules, network policies</p>
+                <p>Lekce 3 | online | středa 25. 5. 2022 | 15:00 CEST<br>Scheduling, placement rules, network policies</p>
                 
                 <p>Lekce 4 | v Brně | čtvrtek 2. 6. 2022 | 10:00 CEST<br>Metrics, logs, observability</p>
             </div>
